@@ -19,10 +19,9 @@ class TimelineViewController: UIViewController, TimelineComponentTarget {
         self.tabBarController?.delegate = self
     }
     
-    override func viewDidAppear(animated: Bool) {
         override func viewDidAppear(animated: Bool) {
             super.viewDidAppear(animated)
-            
+    
             timelineComponent.loadInitialIfRequired()
         }
         
@@ -38,9 +37,6 @@ class TimelineViewController: UIViewController, TimelineComponentTarget {
         }
     
 }
-
-}
-    
 
 
 // MARK: Tab Bar Delegate

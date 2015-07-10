@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		280607641B4B590100DFF1D3 /* FriendSearchTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 280607631B4B590100DFF1D3 /* FriendSearchTableViewCell.swift */; };
 		2887812D1B448A03003E7704 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2887812C1B448A03003E7704 /* Post.swift */; };
 		2894BAAC1B41E86A0047C8A2 /* TimelineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2894BAAB1B41E86A0047C8A2 /* TimelineViewController.swift */; };
 		2894BAAE1B41E88A0047C8A2 /* PhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2894BAAD1B41E88A0047C8A2 /* PhotoViewController.swift */; };
@@ -148,6 +149,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		280607631B4B590100DFF1D3 /* FriendSearchTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FriendSearchTableViewCell.swift; sourceTree = "<group>"; };
 		2887812C1B448A03003E7704 /* Post.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
 		2894BAAB1B41E86A0047C8A2 /* TimelineViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimelineViewController.swift; sourceTree = "<group>"; };
 		2894BAAD1B41E88A0047C8A2 /* PhotoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoViewController.swift; sourceTree = "<group>"; };
@@ -252,6 +254,7 @@
 		28D9F74B1B45A31E0038C0E6 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				280607631B4B590100DFF1D3 /* FriendSearchTableViewCell.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -607,6 +610,7 @@
 				6277189F1B0A58E800AF5C6E /* ErrorHandling.swift in Sources */,
 				2894BAAC1B41E86A0047C8A2 /* TimelineViewController.swift in Sources */,
 				28AE5CC41B4213CF003F57B6 /* PhotoTakingHelper.swift in Sources */,
+				280607641B4B590100DFF1D3 /* FriendSearchTableViewCell.swift in Sources */,
 				2894BAAE1B41E88A0047C8A2 /* PhotoViewController.swift in Sources */,
 				62C8C1E61B06BD6500DC3EA7 /* AppDelegate.swift in Sources */,
 				627718971B0A581700AF5C6E /* FilterViewController.swift in Sources */,
